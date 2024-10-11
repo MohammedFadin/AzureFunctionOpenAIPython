@@ -17,5 +17,5 @@
         }
     ],
     "scriptFile": "__init__.py",
-    "entryPoint": "yourfunction_trigger_name"
+    "entryPoint": "main"
 }

@@ -4,5 +4,5 @@
 
 azure-functions
 requests
-openai==0.28.1
+openai>=1.0.0
 python-dotenv
